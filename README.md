@@ -1,6 +1,6 @@
-Developed By: Pravin Raj A
-Reg No: 212222240079
-Date:
+# Developed By: Pravin Raj A
+# Reg No: 212222240079
+# Date:
 
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
